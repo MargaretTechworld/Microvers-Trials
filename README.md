@@ -33,7 +33,7 @@
 
 # 📖 Past Projects Review (Microverse Trials)<a name="about-project"></a>
 
-**Portfolio** Is a website that tells about me and desplay some of my projects
+**Past Projects Review (Microverse Trials): Review one of my Microverse trials project** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
